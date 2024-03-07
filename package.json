@@ -2,6 +2,7 @@
   "name": "@trungdegea/web3-react",
   "author": "@trungdegea",
   "version": "1.0.0",
+  "repository": "https://github.com/trungdegea/web3-react.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
